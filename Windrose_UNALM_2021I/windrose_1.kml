@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="18">
+        <Style id="21">
+            <IconStyle id="22">
+                <colorMode>normal</colorMode>
+                <scale>6</scale>
+                <heading>0</heading>
+                <Icon id="23">
+                    <href>https://drive.google.com/thumbnail?id=1mAmnDBWEiyr3jSNfTEdRutiWEj31zB4x</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Estaciones SENAMHI</name>
+        <Placemark id="20">
+            <name>VMT - estación</name>
+            <styleUrl>#21</styleUrl>
+            <Point id="19">
+                <coordinates>-76.92,-12.16638888888889,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

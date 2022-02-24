@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="25">
+        <Style id="28">
+            <IconStyle id="29">
+                <colorMode>normal</colorMode>
+                <scale>4</scale>
+                <heading>0</heading>
+                <Icon id="30">
+                    <href>https://drive.google.com/thumbnail?id=1mAmnDBWEiyr3jSNfTEdRutiWEj31zB4x</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="33">
+            <IconStyle id="34">
+                <colorMode>normal</colorMode>
+                <scale>3</scale>
+                <heading>0</heading>
+                <Icon id="35">
+                    <href>https://drive.google.com/thumbnail?id=18suO2uxe5_7lxCaih_UgNjX8mjl_EHNu</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="38">
+            <IconStyle id="39">
+                <colorMode>normal</colorMode>
+                <scale>3</scale>
+                <heading>0</heading>
+                <Icon id="40">
+                    <href>https://drive.google.com/thumbnail?id=1jaLn0Qo3G3T8CJhd4zlFEL8WCPbB7fRU</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Estaciones SENAMHI 2</name>
+        <Placemark id="27">
+            <name>VMT - estación</name>
+            <styleUrl>#28</styleUrl>
+            <Point id="26">
+                <coordinates>-76.92,-12.16638888888889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="32">
+            <name>unalm</name>
+            <styleUrl>#33</styleUrl>
+            <Point id="31">
+                <coordinates>-76.951083,-12.080054,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37">
+            <name>gato</name>
+            <styleUrl>#38</styleUrl>
+            <Point id="36">
+                <coordinates>-77.142302,-12.059423,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
